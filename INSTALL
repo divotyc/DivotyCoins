@@ -1,0 +1,9 @@
+Building DivotyCoin
+
+See doc/readme-qt.rst for instructions on building DivotyCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DivotyCoin.
+
+See doc/build-*.txt for instructions on building divotycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DivotyCoin.
